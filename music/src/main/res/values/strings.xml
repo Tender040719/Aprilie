@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="splash_banner">以德报怨，何以报德。</string>
+    <string name="copy_right">Copyright © %d Tender. All Right Reserved.</string>
+    <string name="splash_logo">Aprilie</string>
+</resources>
